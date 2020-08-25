@@ -2,8 +2,11 @@
 
 ![Anurag's github stats](https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true)
 
+### What do I do?
+
 I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come join us ;)
 
 ### Recent Activity
 
+<!--START_SECTION:activity-->
 <!--START_SECTION:activity-->
