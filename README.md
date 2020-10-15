@@ -12,9 +12,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3571](https://github.com/azerothcore/azerothcore-wotlk/pull/3571) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 💪 Opened PR [#3577](https://github.com/azerothcore/azerothcore-wotlk/pull/3577) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#3571](https://github.com/azerothcore/azerothcore-wotlk/issues/3571) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#3576](https://github.com/azerothcore/azerothcore-wotlk/pull/3576) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#3575](https://github.com/azerothcore/azerothcore-wotlk/pull/3575) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#40](https://github.com/Decathlon/pull-request-labeler-action/issues/40) in [Decathlon/pull-request-labeler-action](https://github.com/Decathlon/pull-request-labeler-action)
+2. 🎉 Merged PR [#3571](https://github.com/azerothcore/azerothcore-wotlk/pull/3571) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 💪 Opened PR [#3577](https://github.com/azerothcore/azerothcore-wotlk/pull/3577) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#3571](https://github.com/azerothcore/azerothcore-wotlk/issues/3571) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#3576](https://github.com/azerothcore/azerothcore-wotlk/pull/3576) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
