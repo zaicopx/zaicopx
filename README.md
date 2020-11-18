@@ -13,7 +13,7 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2735](https://github.com/azerothcore/azerothcore-wotlk/issues/2735) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#3715](https://github.com/azerothcore/azerothcore-wotlk/issues/3715) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#2735](https://github.com/azerothcore/azerothcore-wotlk/issues/2735) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 3. 🗣 Commented on [#3715](https://github.com/azerothcore/azerothcore-wotlk/issues/3715) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 4. 🗣 Commented on [#3715](https://github.com/azerothcore/azerothcore-wotlk/issues/3715) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 5. 🗣 Commented on [#3715](https://github.com/azerothcore/azerothcore-wotlk/issues/3715) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
