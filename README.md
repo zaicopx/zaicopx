@@ -12,9 +12,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#380](https://github.com/azerothcore/wiki/pull/380) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-2. 🗣 Commented on [#267](https://github.com/azerothcore/wiki/issues/267) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-3. 🗣 Commented on [#267](https://github.com/azerothcore/wiki/issues/267) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-4. ❗️ Reopened issue [#267](https://github.com/azerothcore/wiki/issues/267) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-5. ❗️ Closed issue [#267](https://github.com/azerothcore/wiki/issues/267) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+1. ❗️ Reopened issue [#267](https://github.com/azerothcore/wiki/issues/267) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🗣 Commented on [#381](https://github.com/azerothcore/wiki/issues/381) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. 💪 Opened PR [#381](https://github.com/azerothcore/wiki/pull/381) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 💪 Opened PR [#380](https://github.com/azerothcore/wiki/pull/380) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. 🗣 Commented on [#267](https://github.com/azerothcore/wiki/issues/267) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
