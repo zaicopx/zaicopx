@@ -12,9 +12,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4305](https://github.com/azerothcore/azerothcore-wotlk/issues/4305) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. ❗️ Closed issue [#34](https://github.com/TrinityCore/SpellWork/issues/34) in [TrinityCore/SpellWork](https://github.com/TrinityCore/SpellWork)
-3. 🗣 Commented on [#34](https://github.com/TrinityCore/SpellWork/issues/34) in [TrinityCore/SpellWork](https://github.com/TrinityCore/SpellWork)
-4. 🗣 Commented on [#34](https://github.com/TrinityCore/SpellWork/issues/34) in [TrinityCore/SpellWork](https://github.com/TrinityCore/SpellWork)
-5. 🎉 Merged PR [#383](https://github.com/azerothcore/wiki/pull/383) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+1. 💪 Opened PR [#386](https://github.com/azerothcore/wiki/pull/386) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 💪 Opened PR [#385](https://github.com/azerothcore/wiki/pull/385) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. 🗣 Commented on [#4305](https://github.com/azerothcore/azerothcore-wotlk/issues/4305) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. ❗️ Closed issue [#34](https://github.com/TrinityCore/SpellWork/issues/34) in [TrinityCore/SpellWork](https://github.com/TrinityCore/SpellWork)
+5. 🗣 Commented on [#34](https://github.com/TrinityCore/SpellWork/issues/34) in [TrinityCore/SpellWork](https://github.com/TrinityCore/SpellWork)
 <!--END_SECTION:activity-->
