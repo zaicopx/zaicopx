@@ -12,9 +12,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/azerothcore/GitHub-Actions/issues/9) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
-2. ❗️ Opened issue [#8](https://github.com/azerothcore/GitHub-Actions/issues/8) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
-3. ❗️ Opened issue [#7](https://github.com/azerothcore/GitHub-Actions/issues/7) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
-4. ❗️ Opened issue [#6](https://github.com/azerothcore/GitHub-Actions/issues/6) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
-5. 💪 Opened PR [#5539](https://github.com/azerothcore/azerothcore-wotlk/pull/5539) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#5543](https://github.com/azerothcore/azerothcore-wotlk/pull/5543) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. ❗️ Opened issue [#14](https://github.com/azerothcore/GitHub-Actions/issues/14) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
+3. ❗️ Opened issue [#13](https://github.com/azerothcore/GitHub-Actions/issues/13) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
+4. ❗️ Closed issue [#12](https://github.com/azerothcore/GitHub-Actions/issues/12) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
+5. ❗️ Closed issue [#11](https://github.com/azerothcore/GitHub-Actions/issues/11) in [azerothcore/GitHub-Actions](https://github.com/azerothcore/GitHub-Actions)
 <!--END_SECTION:activity-->
