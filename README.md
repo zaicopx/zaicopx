@@ -21,9 +21,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6032](https://github.com/azerothcore/azerothcore-wotlk/issues/6032) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#5997](https://github.com/azerothcore/azerothcore-wotlk/issues/5997) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#6013](https://github.com/azerothcore/azerothcore-wotlk/issues/6013) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#497](https://github.com/azerothcore/wiki/pull/497) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-5. 🗣 Commented on [#5997](https://github.com/azerothcore/azerothcore-wotlk/issues/5997) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#502](https://github.com/azerothcore/wiki/pull/502) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🗣 Commented on [#501](https://github.com/azerothcore/wiki/issues/501) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. ❌ Closed PR [#499](https://github.com/azerothcore/wiki/pull/499) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 🗣 Commented on [#499](https://github.com/azerothcore/wiki/issues/499) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. 🎉 Merged PR [#501](https://github.com/azerothcore/wiki/pull/501) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
