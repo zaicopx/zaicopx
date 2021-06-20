@@ -1,14 +1,10 @@
 ## Hey! I am [Kitzunu](https://Github.com/Kitzunu).
 
-<!--- <a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
-  <img src="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark" />
+<a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark" />
 </a>
 <a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=compact&theme=dark" />
-</a> -->
-
-<a href="https://metrics.lecoq.io/Kitzunu?template=classic&people=1&notable=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=Keader&people.identicons=false&people.shuffle=false&notable.repositories=true&config.timezone=Europe%2FStockholm">
-  <img align="center" src="https://metrics.lecoq.io/Kitzunu?template=classic&people=1&notable=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.thanks=Keader&people.identicons=false&people.shuffle=false&notable.repositories=true&config.timezone=Europe%2FStockholm" />
 </a>
 
 ### What do I do?
