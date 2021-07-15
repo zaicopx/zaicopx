@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6484](https://github.com/azerothcore/azerothcore-wotlk/issues/6484) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 💪 Opened PR [#88](https://github.com/azerothcore/mod-autobalance/pull/88) in [azerothcore/mod-autobalance](https://github.com/azerothcore/mod-autobalance)
-3. 💪 Opened PR [#373](https://github.com/ElunaLuaEngine/Eluna/pull/373) in [ElunaLuaEngine/Eluna](https://github.com/ElunaLuaEngine/Eluna)
-4. 💪 Opened PR [#37](https://github.com/azerothcore/mod-anticheat/pull/37) in [azerothcore/mod-anticheat](https://github.com/azerothcore/mod-anticheat)
-5. 🗣 Commented on [#6957](https://github.com/azerothcore/azerothcore-wotlk/issues/6957) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. ❗️ Closed issue [#217](https://github.com/azerothcore/wiki/issues/217) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🗣 Commented on [#212](https://github.com/azerothcore/wiki/issues/212) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. 🗣 Commented on [#210](https://github.com/azerothcore/wiki/issues/210) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. ❗️ Closed issue [#210](https://github.com/azerothcore/wiki/issues/210) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. ❗️ Closed issue [#264](https://github.com/azerothcore/wiki/issues/264) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
