@@ -1,8 +1,8 @@
 ## Hey! I am [Kitzunu](https://Github.com/Kitzunu).
 
-<a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
+<!--<a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark" />
-</a>
+</a>-->
 <a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=compact&theme=dark" />
 </a>
