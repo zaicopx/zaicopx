@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/azerothcore/mod-skip-dk-starting-area/pull/3) in [azerothcore/mod-skip-dk-starting-area](https://github.com/azerothcore/mod-skip-dk-starting-area)
-2. 🗣 Commented on [#8431](https://github.com/azerothcore/azerothcore-wotlk/issues/8431) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#8431](https://github.com/azerothcore/azerothcore-wotlk/issues/8431) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#8435](https://github.com/azerothcore/azerothcore-wotlk/pull/8435) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. ❗️ Closed issue [#631](https://github.com/azerothcore/wiki/issues/631) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. 💪 Opened PR [#3](https://github.com/azerothcore/mod-skip-dk-starting-area/pull/3) in [azerothcore/mod-skip-dk-starting-area](https://github.com/azerothcore/mod-skip-dk-starting-area)
 4. 🗣 Commented on [#8431](https://github.com/azerothcore/azerothcore-wotlk/issues/8431) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ❗️ Closed issue [#7765](https://github.com/azerothcore/azerothcore-wotlk/issues/7765) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#8431](https://github.com/azerothcore/azerothcore-wotlk/issues/8431) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
