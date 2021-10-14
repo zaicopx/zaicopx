@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/azerothcore/mod-racial-trait-swap/pull/2) in [azerothcore/mod-racial-trait-swap](https://github.com/azerothcore/mod-racial-trait-swap)
-2. 💪 Opened PR [#8514](https://github.com/azerothcore/azerothcore-wotlk/pull/8514) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#6957](https://github.com/azerothcore/azerothcore-wotlk/issues/6957) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. ❌ Closed PR [#8480](https://github.com/azerothcore/azerothcore-wotlk/pull/8480) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#8493](https://github.com/azerothcore/azerothcore-wotlk/issues/8493) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#376](https://github.com/ElunaLuaEngine/Eluna/issues/376) in [ElunaLuaEngine/Eluna](https://github.com/ElunaLuaEngine/Eluna)
+2. 🗣 Commented on [#2571](https://github.com/azerothcore/azerothcore-wotlk/issues/2571) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. ❗️ Closed issue [#2571](https://github.com/azerothcore/azerothcore-wotlk/issues/2571) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🎉 Merged PR [#8378](https://github.com/azerothcore/azerothcore-wotlk/pull/8378) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#8389](https://github.com/azerothcore/azerothcore-wotlk/issues/8389) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
