@@ -20,6 +20,6 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 1. 🗣 Commented on [#8549](https://github.com/azerothcore/azerothcore-wotlk/issues/8549) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 2. 🗣 Commented on [#8549](https://github.com/azerothcore/azerothcore-wotlk/issues/8549) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 3. 🗣 Commented on [#8549](https://github.com/azerothcore/azerothcore-wotlk/issues/8549) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#13](https://github.com/azerothcore/mod-azerothshard/pull/13) in [azerothcore/mod-azerothshard](https://github.com/azerothcore/mod-azerothshard)
-5. 🗣 Commented on [#8534](https://github.com/azerothcore/azerothcore-wotlk/issues/8534) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#8549](https://github.com/azerothcore/azerothcore-wotlk/issues/8549) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#13](https://github.com/azerothcore/mod-azerothshard/pull/13) in [azerothcore/mod-azerothshard](https://github.com/azerothcore/mod-azerothshard)
 <!--END_SECTION:activity-->
