@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/azerothcore/mod-racial-trait-swap/pull/3) in [azerothcore/mod-racial-trait-swap](https://github.com/azerothcore/mod-racial-trait-swap)
-2. 🎉 Merged PR [#8](https://github.com/azerothcore/mod-skip-dk-starting-area/pull/8) in [azerothcore/mod-skip-dk-starting-area](https://github.com/azerothcore/mod-skip-dk-starting-area)
-3. 🗣 Commented on [#8627](https://github.com/azerothcore/azerothcore-wotlk/issues/8627) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. ❗️ Closed issue [#8626](https://github.com/azerothcore/azerothcore-wotlk/issues/8626) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#8626](https://github.com/azerothcore/azerothcore-wotlk/issues/8626) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. ❗️ Closed issue [#8631](https://github.com/azerothcore/azerothcore-wotlk/issues/8631) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#8631](https://github.com/azerothcore/azerothcore-wotlk/issues/8631) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🎉 Merged PR [#3](https://github.com/azerothcore/mod-racial-trait-swap/pull/3) in [azerothcore/mod-racial-trait-swap](https://github.com/azerothcore/mod-racial-trait-swap)
+4. 🎉 Merged PR [#8](https://github.com/azerothcore/mod-skip-dk-starting-area/pull/8) in [azerothcore/mod-skip-dk-starting-area](https://github.com/azerothcore/mod-skip-dk-starting-area)
+5. 🗣 Commented on [#8627](https://github.com/azerothcore/azerothcore-wotlk/issues/8627) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
