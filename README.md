@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8771](https://github.com/azerothcore/azerothcore-wotlk/issues/8771) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#8771](https://github.com/azerothcore/azerothcore-wotlk/issues/8771) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#8963](https://github.com/azerothcore/azerothcore-wotlk/issues/8963) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#8960](https://github.com/azerothcore/azerothcore-wotlk/issues/8960) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 3. 🗣 Commented on [#6865](https://github.com/azerothcore/azerothcore-wotlk/issues/6865) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#8753](https://github.com/azerothcore/azerothcore-wotlk/issues/8753) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#12](https://github.com/malcrom/WaypointCreator/pull/12) in [malcrom/WaypointCreator](https://github.com/malcrom/WaypointCreator)
+4. 🗣 Commented on [#8961](https://github.com/azerothcore/azerothcore-wotlk/issues/8961) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#8771](https://github.com/azerothcore/azerothcore-wotlk/issues/8771) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
