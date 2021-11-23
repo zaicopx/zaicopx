@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9294](https://github.com/azerothcore/azerothcore-wotlk/issues/9294) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#9294](https://github.com/azerothcore/azerothcore-wotlk/issues/9294) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#7822](https://github.com/azerothcore/azerothcore-wotlk/issues/7822) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#7822](https://github.com/azerothcore/azerothcore-wotlk/issues/7822) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#23](https://github.com/azerothcore/mod-duel-reset/pull/23) in [azerothcore/mod-duel-reset](https://github.com/azerothcore/mod-duel-reset)
+1. ❗️ Closed issue [#9300](https://github.com/azerothcore/azerothcore-wotlk/issues/9300) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#9300](https://github.com/azerothcore/azerothcore-wotlk/issues/9300) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. ❗️ Closed issue [#9294](https://github.com/azerothcore/azerothcore-wotlk/issues/9294) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#9294](https://github.com/azerothcore/azerothcore-wotlk/issues/9294) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#7822](https://github.com/azerothcore/azerothcore-wotlk/issues/7822) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
