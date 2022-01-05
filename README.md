@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/azerothcore/wow-flags-checker/pull/1) in [azerothcore/wow-flags-checker](https://github.com/azerothcore/wow-flags-checker)
-2. 💪 Opened PR [#10013](https://github.com/azerothcore/azerothcore-wotlk/pull/10013) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#9519](https://github.com/azerothcore/azerothcore-wotlk/issues/9519) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#10012](https://github.com/azerothcore/azerothcore-wotlk/pull/10012) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#10011](https://github.com/azerothcore/azerothcore-wotlk/pull/10011) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#10013](https://github.com/azerothcore/azerothcore-wotlk/pull/10013) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 💪 Opened PR [#1](https://github.com/azerothcore/wow-flags-checker/pull/1) in [azerothcore/wow-flags-checker](https://github.com/azerothcore/wow-flags-checker)
+3. 💪 Opened PR [#10013](https://github.com/azerothcore/azerothcore-wotlk/pull/10013) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#9519](https://github.com/azerothcore/azerothcore-wotlk/issues/9519) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#10012](https://github.com/azerothcore/azerothcore-wotlk/pull/10012) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
