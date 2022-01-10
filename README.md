@@ -19,7 +19,7 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10113](https://github.com/azerothcore/azerothcore-wotlk/issues/10113) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 2. 🗣 Commented on [#10113](https://github.com/azerothcore/azerothcore-wotlk/issues/10113) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🎉 Merged PR [#10009](https://github.com/azerothcore/azerothcore-wotlk/pull/10009) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🎉 Merged PR [#9673](https://github.com/azerothcore/azerothcore-wotlk/pull/9673) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#10093](https://github.com/azerothcore/azerothcore-wotlk/pull/10093) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#10113](https://github.com/azerothcore/azerothcore-wotlk/issues/10113) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🎉 Merged PR [#10009](https://github.com/azerothcore/azerothcore-wotlk/pull/10009) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🎉 Merged PR [#9673](https://github.com/azerothcore/azerothcore-wotlk/pull/9673) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
