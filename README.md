@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/azerothcore/mod-anticheat/pull/43) in [azerothcore/mod-anticheat](https://github.com/azerothcore/mod-anticheat)
-2. ❌ Closed PR [#37](https://github.com/azerothcore/mod-anticheat/pull/37) in [azerothcore/mod-anticheat](https://github.com/azerothcore/mod-anticheat)
-3. 🎉 Merged PR [#9992](https://github.com/azerothcore/azerothcore-wotlk/pull/9992) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🎉 Merged PR [#49](https://github.com/azerothcore/mod-ah-bot/pull/49) in [azerothcore/mod-ah-bot](https://github.com/azerothcore/mod-ah-bot)
-5. 🎉 Merged PR [#10366](https://github.com/azerothcore/azerothcore-wotlk/pull/10366) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#10403](https://github.com/azerothcore/azerothcore-wotlk/pull/10403) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. ❗️ Closed issue [#2959](https://github.com/azerothcore/azerothcore-wotlk/issues/2959) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#2959](https://github.com/azerothcore/azerothcore-wotlk/issues/2959) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🎉 Merged PR [#43](https://github.com/azerothcore/mod-anticheat/pull/43) in [azerothcore/mod-anticheat](https://github.com/azerothcore/mod-anticheat)
+5. 💪 Opened PR [#43](https://github.com/azerothcore/mod-anticheat/pull/43) in [azerothcore/mod-anticheat](https://github.com/azerothcore/mod-anticheat)
 <!--END_SECTION:activity-->
