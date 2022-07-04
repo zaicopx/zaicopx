@@ -18,8 +18,8 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#754](https://github.com/azerothcore/wiki/issues/754) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-2. 🗣 Commented on [#756](https://github.com/azerothcore/wiki/issues/756) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-3. 🗣 Commented on [#756](https://github.com/azerothcore/wiki/issues/756) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-4. 🗣 Commented on [#756](https://github.com/azerothcore/wiki/issues/756) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-5. 🗣 Commented on [#756](https://github.com/azerothcore/wiki/issues/756) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🗣 Commented on [#528](https://github.com/azerothcore/wiki/issues/528) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. 🗣 Commented on [#518](https://github.com/azerothcore/wiki/issues/518) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 🗣 Commented on [#449](https://github.com/azerothcore/wiki/issues/449) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. 🗣 Commented on [#754](https://github.com/azerothcore/wiki/issues/754) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
