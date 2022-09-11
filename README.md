@@ -19,9 +19,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12534](https://github.com/azerothcore/azerothcore-wotlk/issues/12534) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#12181](https://github.com/azerothcore/azerothcore-wotlk/issues/12181) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. ❗️ Closed issue [#12181](https://github.com/azerothcore/azerothcore-wotlk/issues/12181) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#12534](https://github.com/azerothcore/azerothcore-wotlk/issues/12534) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ❗️ Closed issue [#12866](https://github.com/azerothcore/azerothcore-wotlk/issues/12866) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+2. 💪 Opened PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+3. ❗️ Closed issue [#205](https://github.com/trickerer/Trinity-Bots/issues/205) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+4. ❗️ Opened issue [#205](https://github.com/trickerer/Trinity-Bots/issues/205) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+5. 🎉 Merged PR [#7](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/7) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
 <!--END_SECTION:activity-->
