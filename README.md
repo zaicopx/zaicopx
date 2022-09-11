@@ -1,18 +1,20 @@
-## Hey! I am [Kitzunu](https://Github.com/Kitzunu).
+## Hey! I am [zaicopx](https://Github.com/zaicopx).
 
-<!--<a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark" />
+<!--<a href="https://github-readme-stats.zaicopx.vercel.app/api?username=zaicopx&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.zaicopx.vercel.app/api?username=zaicopx&show_icons=true&theme=dark" />
 </a>-->
-<a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=compact&theme=dark" />
+<a href="https://github-readme-stats.zaicopx.vercel.app/api?username=zaicopx&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaicopx&layout=compact&theme=dark" />
 </a>
+
+
 
 ### What do I do?
 
-I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come join us ;)
+I keep updating my custom TrinityCore modified so you can enjoy single player gameplay in World of Warcraft WotLK. 
 
 ### Connect with me
-[![](https://img.shields.io/badge/AzerothCore%20Discord-Connect%20with%20me!-green)](https://discord.com/invite/gkt4y2x)
+[![](https://img.shields.io/badge/zaicopx%20Discord-Connect%20with%20me!-green)](https://discordapp.com/users/zaicopx)
 
 ### Recent Activity
 
