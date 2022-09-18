@@ -11,7 +11,7 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Connect with me
 [![](https://img.shields.io/badge/zaicopx%20Discord-Connect%20with%20me!-green)](https://discordapp.com/users/zaicopx)
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=trickerer&show_icons=true&theme=tokyonight)](https://github.com/trickerer)
+[![github_stats](https://github-readme-stats.vercel.app/api?username=zaicopx&show_icons=true&theme=tokyonight)](https://github.com/zaicopx)
 
 <!--<a href="https://github-readme-stats.zaicopx.vercel.app/api?username=zaicopx&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.zaicopx.vercel.app/api?username=zaicopx&show_icons=true&theme=dark" />
