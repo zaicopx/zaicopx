@@ -23,9 +23,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-2. 💪 Opened PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-3. ❗️ Closed issue [#205](https://github.com/trickerer/Trinity-Bots/issues/205) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-4. ❗️ Opened issue [#205](https://github.com/trickerer/Trinity-Bots/issues/205) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-5. 🎉 Merged PR [#7](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/7) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+1. ❗️ Opened issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+2. 🎉 Merged PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+3. 💪 Opened PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+4. ❗️ Closed issue [#205](https://github.com/trickerer/Trinity-Bots/issues/205) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+5. ❗️ Opened issue [#205](https://github.com/trickerer/Trinity-Bots/issues/205) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
 <!--END_SECTION:activity-->
