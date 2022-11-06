@@ -24,8 +24,8 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#237](https://github.com/trickerer/Trinity-Bots/issues/237) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-2. ❗️ Closed issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-3. 🗣 Commented on [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-4. ❗️ Opened issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-5. 🎉 Merged PR [#8](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/8) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+2. 🗣 Commented on [#237](https://github.com/trickerer/Trinity-Bots/issues/237) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+3. ❗️ Closed issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+4. 🗣 Commented on [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+5. ❗️ Opened issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
 <!--END_SECTION:activity-->
