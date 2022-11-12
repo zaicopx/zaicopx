@@ -23,9 +23,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-2. ❌ Closed PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-3. 💪 Opened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-4. 🎉 Merged PR [#1](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots/pull/1) in [zaicopx/AzerothCore-wotlk-with-NPCBots](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots)
-5. 💪 Opened PR [#1](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots/pull/1) in [zaicopx/AzerothCore-wotlk-with-NPCBots](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots)
+1. 🎉 Merged PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+2. ❌ Reopened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+3. ❌ Closed PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+4. 💪 Opened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+5. 🎉 Merged PR [#1](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots/pull/1) in [zaicopx/AzerothCore-wotlk-with-NPCBots](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots)
 <!--END_SECTION:activity-->
