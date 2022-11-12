@@ -23,9 +23,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/trickerer/Trinity-Bots/issues/237) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-2. 🗣 Commented on [#237](https://github.com/trickerer/Trinity-Bots/issues/237) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-3. ❗️ Closed issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-4. 🗣 Commented on [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-5. ❗️ Opened issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+1. 🎉 Merged PR [#1](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots/pull/1) in [zaicopx/AzerothCore-wotlk-with-NPCBots](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots)
+2. 💪 Opened PR [#1](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots/pull/1) in [zaicopx/AzerothCore-wotlk-with-NPCBots](https://github.com/zaicopx/AzerothCore-wotlk-with-NPCBots)
+3. 🗣 Commented on [#237](https://github.com/trickerer/Trinity-Bots/issues/237) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+4. 🗣 Commented on [#237](https://github.com/trickerer/Trinity-Bots/issues/237) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+5. ❗️ Closed issue [#213](https://github.com/trickerer/Trinity-Bots/issues/213) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
 <!--END_SECTION:activity-->
