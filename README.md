@@ -23,9 +23,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#253](https://github.com/trickerer/Trinity-Bots/issues/253) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-2. 🎉 Merged PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-3. ❌ Reopened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-4. ❌ Closed PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
-5. 💪 Opened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+1. ❗️ Closed issue [#253](https://github.com/trickerer/Trinity-Bots/issues/253) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+2. 🗣 Commented on [#253](https://github.com/trickerer/Trinity-Bots/issues/253) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+3. ❗️ Opened issue [#253](https://github.com/trickerer/Trinity-Bots/issues/253) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+4. 🎉 Merged PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
+5. ❌ Reopened PR [#9](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots/pull/9) in [zaicopx/TrinityCore-3.3.5-with-NPCBots](https://github.com/zaicopx/TrinityCore-3.3.5-with-NPCBots)
 <!--END_SECTION:activity-->
