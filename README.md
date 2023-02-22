@@ -23,9 +23,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/ZhengPeiRu21/mod-individual-progression/issues/89) in [ZhengPeiRu21/mod-individual-progression](https://github.com/ZhengPeiRu21/mod-individual-progression)
-2. 🎉 Merged PR [#1](https://github.com/zaicopx/mod-ah-bot/pull/1) in [zaicopx/mod-ah-bot](https://github.com/zaicopx/mod-ah-bot)
-3. 💪 Opened PR [#1](https://github.com/zaicopx/mod-ah-bot/pull/1) in [zaicopx/mod-ah-bot](https://github.com/zaicopx/mod-ah-bot)
-4. ❗️ Closed issue [#311](https://github.com/trickerer/Trinity-Bots/issues/311) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-5. ❗️ Opened issue [#311](https://github.com/trickerer/Trinity-Bots/issues/311) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+1. 🎉 Merged PR [#1](https://github.com/zaicopx/TourGuideVanilla/pull/1) in [zaicopx/TourGuideVanilla](https://github.com/zaicopx/TourGuideVanilla)
+2. 💪 Opened PR [#1](https://github.com/zaicopx/TourGuideVanilla/pull/1) in [zaicopx/TourGuideVanilla](https://github.com/zaicopx/TourGuideVanilla)
+3. 🗣 Commented on [#89](https://github.com/ZhengPeiRu21/mod-individual-progression/issues/89) in [ZhengPeiRu21/mod-individual-progression](https://github.com/ZhengPeiRu21/mod-individual-progression)
+4. 🎉 Merged PR [#1](https://github.com/zaicopx/mod-ah-bot/pull/1) in [zaicopx/mod-ah-bot](https://github.com/zaicopx/mod-ah-bot)
+5. 💪 Opened PR [#1](https://github.com/zaicopx/mod-ah-bot/pull/1) in [zaicopx/mod-ah-bot](https://github.com/zaicopx/mod-ah-bot)
 <!--END_SECTION:activity-->
