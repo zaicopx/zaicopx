@@ -23,9 +23,9 @@ I keep updating my custom TrinityCore modified so you can enjoy single player ga
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#368](https://github.com/trickerer/Trinity-Bots/issues/368) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-2. ❗️ Opened issue [#368](https://github.com/trickerer/Trinity-Bots/issues/368) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
-3. 🎉 Merged PR [#1](https://github.com/zaicopx/zUI/pull/1) in [zaicopx/zUI](https://github.com/zaicopx/zUI)
-4. 💪 Opened PR [#1](https://github.com/zaicopx/zUI/pull/1) in [zaicopx/zUI](https://github.com/zaicopx/zUI)
-5. 🎉 Merged PR [#1](https://github.com/zaicopx/TourGuideVanilla/pull/1) in [zaicopx/TourGuideVanilla](https://github.com/zaicopx/TourGuideVanilla)
+1. ❗️ Opened issue [#1](https://github.com/AnchyDev/ReusablePotion/issues/1) in [AnchyDev/ReusablePotion](https://github.com/AnchyDev/ReusablePotion)
+2. 🗣 Commented on [#368](https://github.com/trickerer/Trinity-Bots/issues/368) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+3. ❗️ Opened issue [#368](https://github.com/trickerer/Trinity-Bots/issues/368) in [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+4. 🎉 Merged PR [#1](https://github.com/zaicopx/zUI/pull/1) in [zaicopx/zUI](https://github.com/zaicopx/zUI)
+5. 💪 Opened PR [#1](https://github.com/zaicopx/zUI/pull/1) in [zaicopx/zUI](https://github.com/zaicopx/zUI)
 <!--END_SECTION:activity-->
