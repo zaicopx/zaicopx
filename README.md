@@ -4,7 +4,7 @@
 
 ### What do I do?
 
-I keep updating my custom TrinityCore modified so you can enjoy single player gameplay in World of Warcraft WotLK. 
+I keep updating my AzerothCore Repack so you can enjoy single player gameplay in World of Warcraft WotLK. 
   <img align="center" src="https://github.com/zaicopx/zaicopx/blob/master/WotLK%20Single%20Player%20Repack--resize.png" />
 </a>
 
